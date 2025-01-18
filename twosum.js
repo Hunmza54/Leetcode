@@ -15,8 +15,6 @@ var twosum = function (arr, target) {
 
     }
     return "No two indices add up to the target";
-
-
 }
 
 
